@@ -27,8 +27,8 @@
 
 // -------- Wi-Fi configuration --------
 // Fill these in to join your router. If connection fails, ESP32 creates its AP.
-const char* WIFI_SSID = "YOUR_WIFI_NAME";
-const char* WIFI_PASSWORD = "YOUR_WIFI_PASSWORD";
+const char* WIFI_SSID = "Guard";
+const char* WIFI_PASSWORD = "guard123";
 const char* AP_SSID = "RETROX-ESP32";
 const char* AP_PASSWORD = "retroX123"; // At least 8 characters
 
